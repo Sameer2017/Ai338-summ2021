@@ -1,4 +1,7 @@
-# Ai338-summ2021
-|Muhammad Sameer Khan | 62064|
-|Muhammad Faizan | 61913|
-|Hasnain Tariq | 63578|
+# Ai338-summ2021:Course Repository# ##PROJECT MEMBERS##
+
+|      NAME        |  STD-ID  |
+| ---------------- | -------- |
+| Muhammad Sameer khan  |   62064  |
+| Faizan    |   61913  |
+| Hasnain Tariq   |   63578  |
